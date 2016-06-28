@@ -1,4 +1,4 @@
-# jingo 国际版 前端静态页面 说明
+# jingo Static
 
 - 加入 `BrowerSync`  进行浏览器同步
 
